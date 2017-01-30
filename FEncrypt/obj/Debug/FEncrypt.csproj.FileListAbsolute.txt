@@ -1,0 +1,4 @@
+G:\Github\FEncrypt_28Ene2017\FEncrypt\bin\Debug\FEncrypt.dll
+G:\Github\FEncrypt_28Ene2017\FEncrypt\bin\Debug\FEncrypt.pdb
+G:\Github\FEncrypt_28Ene2017\FEncrypt\obj\Debug\FEncrypt.dll
+G:\Github\FEncrypt_28Ene2017\FEncrypt\obj\Debug\FEncrypt.pdb
